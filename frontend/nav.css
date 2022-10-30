@@ -1,0 +1,27 @@
+@charset "utf-8";
+/*
+nav {
+    background-color: darkgreen;
+    font-size: 150%;
+    text-align: center
+}
+
+nav a {
+    color: gold
+}
+*/
+.container { padding-top: 24px; padding-bottom: 24px; }
+.input-group { padding-top: 24px; padding-bottom: 24px; }
+.bg-light {  background-color:rgb(165, 186, 255)!important;  }
+.navbar-light .navbar-nav .nav-link {    color: rgba(0,0,0,.7); }
+[class*=col] img { display:block; width:100%; }
+.breadcrumb { margin-bottom: 0; }
+#page1 { background-color:#e1f9ff; border-top:3px solid rgb(153, 153, 153); min-height:70vh; }
+.blue_con { min-height:100px; padding-top: 20px; padding-bottom: 20px; }
+.bg-gold { background-color:gold!important; }
+.bg-deepsky { background-color:deepskyblue!important; }
+.bg-love { background-color:deeppink!important; }
+.page { min-height:600px; }
+.page2 { min-height:40px; padding-top: 30px; }
+.btn { margin-left: 8px; margin-right: 8px; }
+#loginModal .modal-dialog { min-width:600px; max-width:800px!important; }
